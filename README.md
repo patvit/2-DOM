@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/enn8ritkxnn82dq4?svg=true)](https://ci.appveyor.com/project/patvit/2-dom)
 
 ### [Gh-page](https://mksinc.github.io/AHJ-hw.-2-DOM.-1-Moving-an-item/)
 # 2. Домашнее задание к лекции «DOM»

@@ -39,7 +39,8 @@
     "webpack-merge": "^5.1.4"
   },
   "dependencies": {
-    "core-js": "^3.36.1"
+    "core-js": "^3.36.1",
+    "yarn": "^1.22.22"
   },
   "description": "Правила сдачи задания:",
   "bugs": {

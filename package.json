@@ -1,0 +1,50 @@
+{
+  "name": "ahj-hw.-2-dom.-1-moving-an-item",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "webpack-dev-server --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js",
+    "lint": "eslint .",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKSInc/AHJ-hw.-2-DOM.-1-Moving-an-item.git"
+  },
+  "author": "Maksim <pyshkov.maksim@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "babel-jest": "^26.3.0",
+    "babel-loader": "^8.1.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^4.3.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-react": "^7.34.1",
+    "html-loader": "^1.3.1",
+    "html-webpack-plugin": "^4.5.0",
+    "jest": "^26.4.2",
+    "mini-css-extract-plugin": "^0.11.2",
+    "optimize-css-assets-webpack-plugin": "^5.0.4",
+    "terser-webpack-plugin": "^4.2.2",
+    "url-loader": "^4.1.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0",
+    "webpack-merge": "^5.1.4"
+  },
+  "dependencies": {
+    "core-js": "^3.36.1"
+  },
+  "description": "Правила сдачи задания:",
+  "bugs": {
+    "url": "https://github.com/MKSInc/AHJ-hw.-2-DOM.-1-Moving-an-item/issues"
+  },
+  "homepage": "https://github.com/MKSInc/AHJ-hw.-2-DOM.-1-Moving-an-item#readme",
+  "main": "webpack.common.js"
+}
